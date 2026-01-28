@@ -13,6 +13,10 @@ AI projects in Python
 
 Android Programming
 
+Cloud Basic in Azure
+
+3D modelling in solidworks
+
 Arduino Hardware
 https://drive.google.com/file/d/1-k6o6qFInTIw9rlY_qtIe8Ey3TYb8eDI/view?usp=drive_link
 
